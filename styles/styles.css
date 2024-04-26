@@ -247,7 +247,7 @@ input {
 
 textarea {
     height: 150px;
-    width: 245px;
+    width: 300px;
 }
 
 input, textarea, form button {
@@ -256,6 +256,7 @@ input, textarea, form button {
     margin-bottom: 24px;
 }
 
-form button {
-    margin-left: 260px;
+.contact .fake-button  {
+    margin-left: 310px;
+    width:300px;
 }
